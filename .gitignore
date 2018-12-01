@@ -67,12 +67,3 @@ desktop.ini
 # Development files
 work*.rb
 /~/
-
-# Config files
-settings.yml
-
-# Data files
-/data/
-
-# Output files
-/output/
